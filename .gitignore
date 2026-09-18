@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+android/app/build/
+android/build/
+android/.gradle
+ios/build/
+*.apk
+*.aab
+*.so

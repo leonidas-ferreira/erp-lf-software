@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "MeuAppTrabalho",
+    "slug": "meuapptrabalho",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.leonidas.meuapptrabalho",
+      "permissions": []
+    },
+    "extra": {
+      "eas": {
+        "projectId": "df6ccf74-08e4-4c01-acf2-e2ef4916b6aa"
+      }
+    },
+    "plugins": [
+      "expo-sharing",
+      "expo-status-bar"
+    ]
+  }
+}
